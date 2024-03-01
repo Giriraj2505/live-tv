@@ -1,0 +1,787 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Spiritual - SabbirIPTV",Shirdi Sai Baba
+https://delta45tatasky.akamaized.net/out/i/554.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Spiritual - SabbirIPTV",Somnath Temple
+https://delta45tatasky.akamaized.net/out/i/722.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png" group-title="Entertainment - SabbirIPTV",Tata Play Romance
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment - SabbirIPTV",STAR Plus HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment - SabbirIPTV",Star Bharat HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment - SabbirIPTV",SET HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Entertainment - SabbirIPTV",SET
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment - SabbirIPTV",SONY SAB HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment - SabbirIPTV",SONY SAB
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png" group-title="Entertainment - SabbirIPTV",&TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Entertainment - SabbirIPTV",Zee TV HD
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png" group-title="Entertainment - SabbirIPTV",Zee TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment - SabbirIPTV",Colors HD
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png" group-title="Entertainment - SabbirIPTV",Colors
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-304-j5ji9otc-v2/imageContent-304-j5ji9otc-m2.png" group-title="Entertainment - SabbirIPTV",Tata Play Javed Akhtar
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65443-kty2tkwo-v2/imageContent-65443-kty2tkwo-m2.png" group-title="Entertainment - SabbirIPTV",Tata Play Videshi Kahaniyan
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Entertainment - SabbirIPTV",UTV Bindass
+https://delta12tatasky.akamaized.net/out/i/3553587.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70821-l3edt8uw-v1/imageContent-70821-l3edt8uw-m3.png" group-title="null - SabbirIPTV",Tata Play Zindagi
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png" group-title="Entertainment - SabbirIPTV",Investigation Discovery
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Entertainment - SabbirIPTV",STAR Utsav
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="Entertainment - SabbirIPTV",Zee Anmol
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11703-j9ksw12o-v2/imageContent-11703-j9ksw12o-m2.png" group-title="Entertainment - SabbirIPTV",Colors Rishtey
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="Entertainment - SabbirIPTV",Sony Pal
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="Entertainment - SabbirIPTV",Big Magic
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-765-j5m2mbjk-v2/imageContent-765-j5m2mbjk-m2.png" group-title="Entertainment - SabbirIPTV",Anjan TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60986-klq1vs5s-v2/imageContent-60986-klq1vs5s-m5.png" group-title="Entertainment - SabbirIPTV",Ishara
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="Entertainment - SabbirIPTV",Shemaroo TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEUM_Thumbnail-v2/SHEUM_Thumbnail.png" group-title="null - SabbirIPTV",Shemaroo UMANG
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png" group-title="Knowledge - SabbirIPTV",DD Kisan
+https://delta15tatasky.akamaized.net/out/i/1454898.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATRAN_Thumbnail-v6/ATRAN_Thumbnail.png" group-title="null - SabbirIPTV",Atrangii
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1818/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies - SabbirIPTV",Tata Play Hollywood Local
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Movies - SabbirIPTV",SONY MAX HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Movies - SabbirIPTV",Zee Cinema HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="Movies - SabbirIPTV",Tata Play Theatre HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="Movies - SabbirIPTV",&pictures
+https://delta12tatasky.akamaized.net/out/i/3569786.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies - SabbirIPTV",&pictures HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34170-jok0hf00-v7/imageContent-34170-jok0hf00-m8.PNG" group-title="Movies - SabbirIPTV",Tata Play ShortsTV
+https://delta12tatasky.akamaized.net/out/i/3861892.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="Movies - SabbirIPTV",B4U Movies
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="Movies - SabbirIPTV",Sony Wah
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="Movies - SabbirIPTV",SONY MAX 2
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="Movies - SabbirIPTV",Cinema TV India
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="Movies - SabbirIPTV",Dangal 2
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="Movies - SabbirIPTV",WoW Cinema One
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="Movies - SabbirIPTV",Manoranjan TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Movies - SabbirIPTV",Manoranjan Grand
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="null - SabbirIPTV",Colors Cineplex Bollywood
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHAMB4U_Thumbnail-v2/DHAMB4U_Thumbnail.png" group-title="null - SabbirIPTV",Dhamaka Movies B4U
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1856/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="Movies - SabbirIPTV",SONY PIX
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies - SabbirIPTV",SONY PIX HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="Movies - SabbirIPTV",Movies Now HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="Movies - SabbirIPTV",MNX HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports - SabbirIPTV",Star Sports 1 Hindi HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports - SabbirIPTV",Star Sports Select 2 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="Sports - SabbirIPTV",SONY SPORTS TEN 3
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="Sports - SabbirIPTV",SONY SPORTS TEN 2
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="null - SabbirIPTV",Sports 18 - 1 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports - SabbirIPTV",Eurosport HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" group-title="Sports - SabbirIPTV",Sports 18 - 1
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11333-j9joxlw8-v2/imageContent-11333-j9joxlw8-m2.png" group-title="News - SabbirIPTV",DD News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png" group-title="News - SabbirIPTV",DD News HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png" group-title="Knowledge - SabbirIPTV",Tata Play Seniors
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" group-title="News - SabbirIPTV",NDTV India
+https://delta12tatasky.akamaized.net/out/i/5400440.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="News - SabbirIPTV",Aaj Tak HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png" group-title="News - SabbirIPTV",Zee News
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png" group-title="Spiritual - SabbirIPTV",Tata Play Astro Duniya
+https://delta15tatasky.akamaized.net/out/i/2235913.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png" group-title="News - SabbirIPTV",India TV
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png" group-title="Knowledge - SabbirIPTV",Tata Play JEE Prep
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png" group-title="Knowledge - SabbirIPTV",Tata Play NEET Prep
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png" group-title="Regional Hindi - SabbirIPTV",TV9 Bharatvarsh
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png" group-title="News - SabbirIPTV",TOTAL TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png" group-title="News - SabbirIPTV",Times Now Navbharat HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png" group-title="News - SabbirIPTV",Times Now Navbharat
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png" group-title="News - SabbirIPTV",News India 24x7
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1125/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png" group-title="null - SabbirIPTV",Bharat 24
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72980-l8fn3f28-v2/imageContent-72980-l8fn3f28-m4.png" group-title="null - SabbirIPTV",Surya Samachar
+https://delta13tatasky.akamaized.net/out/i/5569575.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11831-j9kzkn40-v1/imageContent-11831-j9kzkn40-m1.png" group-title="News - SabbirIPTV",Sudarshan News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BHEXP_Thumbnail-v2/BHEXP_Thumbnail.png" group-title="null - SabbirIPTV",Bharat Express
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17573-jclve4rc-v1/imageContent-17573-jclve4rc-m1.png" group-title="News - SabbirIPTV",APN News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png" group-title="News - SabbirIPTV",ET Now Swadesh
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11243-j9itj54w-v2/imageContent-11243-j9itj54w-m2.png" group-title="News - SabbirIPTV",Bharat Samachar
+https://delta12tatasky.akamaized.net/out/i/5402804.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11527-j9jtx9hk-v2/imageContent-11527-j9jtx9hk-m2.png" group-title="News - SabbirIPTV",Khabarain Abhi Tak
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_596/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png" group-title="News - SabbirIPTV",Samay
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png" group-title="null - SabbirIPTV",Har Khabar
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png" group-title="News - SabbirIPTV",Good News Today
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png" group-title="News - SabbirIPTV",CNBC Awaaz
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png" group-title="News - SabbirIPTV",Sansad TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png" group-title="News - SabbirIPTV",Times Now World
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png" group-title="News - SabbirIPTV",NDTV 24x7
+https://delta13tatasky.akamaized.net/out/i/2284312.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png" group-title="News - SabbirIPTV",TIMES NOW
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="News - SabbirIPTV",INDIA TODAY
+https://delta15tatasky.akamaized.net/out/i/1460881.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png" group-title="News - SabbirIPTV",CNN News18
+https://delta14tatasky.akamaized.net/out/i/2625150.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8012-j7a2doxc-v1/imageContent-8012-j7a2doxc-m1.png" group-title="English News - SabbirIPTV",NewsX
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_152/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12189-j9plqlf4-v1/imageContent-12189-j9plqlf4-m1.png" group-title="News - SabbirIPTV",MIRROR NOW
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="News - SabbirIPTV",WION
+https://delta16tatasky.akamaized.net/out/i/3215617.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="News - SabbirIPTV",REPUBLIC TV
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_394/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png" group-title="News - SabbirIPTV",CNBC TV18 Prime HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11344-j9jpg7nc-v1/imageContent-11344-j9jpg7nc-m1.png" group-title="News - SabbirIPTV",DD India
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png" group-title="News - SabbirIPTV",NDTV Profit Prime
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6-j5f5oyqw-v2/imageContent-6-j5f5oyqw-m2.png" group-title="Lifestyle - SabbirIPTV",Travel XP - 4K
+https://delta47tatasky.akamaized.net/out/i/298431.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png" group-title="News - SabbirIPTV",CNBC-TV18
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png" group-title="News - SabbirIPTV",Al Jazeera
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png" group-title="News - SabbirIPTV",France 24
+https://delta12tatasky.akamaized.net/out/i/5870205.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png" group-title="News - SabbirIPTV",Russia Today
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png" group-title="News - SabbirIPTV",NHK World Japan
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids - SabbirIPTV",Super Hungama
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids - SabbirIPTV",Disney
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids - SabbirIPTV",Nick HD+
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13094-jbdzlsfs-v2/imageContent-13094-jbdzlsfs-m2.png" group-title="Kids - SabbirIPTV",Tata Play Fun Learn Preschool
+https://delta14tatasky.akamaized.net/out/i/2638522.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png" group-title="Kids - SabbirIPTV",Tata Play Fun Learn Junior
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Kids - SabbirIPTV",Cartoon Network HD+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids - SabbirIPTV",Cartoon Network
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids - SabbirIPTV",Discovery Kids
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids - SabbirIPTV",SONY YAY!
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids - SabbirIPTV",Sonic Nickelodeon
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Regional Kannada - SabbirIPTV",Gubbare
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Kids - SabbirIPTV",ETV Bal Bharat
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png" group-title="Kids - SabbirIPTV",CBeeBies
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png" group-title="Knowledge - SabbirIPTV",Tata Play Vedic Maths
+https://delta15tatasky.akamaized.net/out/i/1449417.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Knowledge - SabbirIPTV",National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Knowledge - SabbirIPTV",National Geographic
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="Knowledge - SabbirIPTV",Nat Geo Wild
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Knowledge - SabbirIPTV",Discovery HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Knowledge - SabbirIPTV",Discovery Channel
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Knowledge - SabbirIPTV",Animal Planet HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png" group-title="Knowledge - SabbirIPTV",Animal Planet
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Knowledge - SabbirIPTV",Discovery Science
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Knowledge - SabbirIPTV",History TV18 HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="Knowledge - SabbirIPTV",SONY BBC Earth
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png" group-title="Knowledge - SabbirIPTV",EPIC
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11429-j9jqu3y0-v1/imageContent-11429-j9jqu3y0-m1.png" group-title="Lifestyle - SabbirIPTV",FOX Life HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png" group-title="Knowledge - SabbirIPTV",DD Gyan Darshan
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="Lifestyle - SabbirIPTV",TLC HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png" group-title="Lifestyle - SabbirIPTV",TLC
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Lifestyle - SabbirIPTV",Discovery Turbo
+https://delta12tatasky.akamaized.net/out/i/3553893.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png" group-title="Lifestyle - SabbirIPTV",Travelxp HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png" group-title="Lifestyle - SabbirIPTV",Travelxp
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music - SabbirIPTV",MTV HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png" group-title="Music - SabbirIPTV",E24
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music - SabbirIPTV",MTV Beats HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music - SabbirIPTV",B4U Music
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music - SabbirIPTV",Mastiii
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Music - SabbirIPTV",Zing
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Music - SabbirIPTV",VH1 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11725-j9kw030w-v4/imageContent-11725-j9kw030w-m4.png" group-title="Spiritual - SabbirIPTV",Paras Gold One
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11590-j9jyx4so-v1/imageContent-11590-j9jyx4so-m1.png" group-title="Spiritual - SabbirIPTV",MH One Shraddha
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_627/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png" group-title="Spiritual - SabbirIPTV",Peace of Mind
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11507-j9jto5k0-v1/imageContent-11507-j9jto5k0-m1.png" group-title="Spiritual - SabbirIPTV",Jinvani Channel
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_589/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png" group-title="Spiritual - SabbirIPTV",Dharma Sandesh
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11767-j9kwretk-v1/imageContent-11767-j9kwretk-m1.png" group-title="Spiritual - SabbirIPTV",Satsang TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_713/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11775-j9kwuk8w-v1/imageContent-11775-j9kwuk8w-m1.png" group-title="Spiritual - SabbirIPTV",Shubh TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11212-j9icd8jc-v1/imageContent-11212-j9icd8jc-m1.png" group-title="Spiritual - SabbirIPTV",Aastha Bhajan
+https://delta16tatasky.akamaized.net/out/i/2903719.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png" group-title="Spiritual - SabbirIPTV",Vedic
+https://delta12tatasky.akamaized.net/out/i/3562162.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png" group-title="Regional Hindi - SabbirIPTV",Subharti TV
+https://delta15tatasky.akamaized.net/out/i/2554658.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png" group-title="Spiritual - SabbirIPTV",DIVYA
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png" group-title="Spiritual - SabbirIPTV",Aadinath TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42-j5fc9b8g-v3/imageContent-42-j5fc9b8g-m3.png" group-title="Regional Hindi - SabbirIPTV",Zee Ganga
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png" group-title="Regional Hindi - SabbirIPTV",MH One Dil Se
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-768-j5m31cfs-v1/imageContent-768-j5m31cfs-m1.png" group-title="Regional Hindi - SabbirIPTV",Bhojpuri Cinema
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55553-kdzetu0o-v3/imageContent-55553-kdzetu0o-m8.png" group-title="Regional Hindi - SabbirIPTV",Filamchi Bhojpuri
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png" group-title="News - SabbirIPTV",Zee Uttar Pradesh Uttarakhand
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23206-jey39grs-v1/imageContent-23206-jey39grs-m2.png" group-title="Regional Hindi - SabbirIPTV",News18 Bihar Jharkhand
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9007-j7ss7x80-v1/imageContent-9007-j7ss7x80-m1.png" group-title="News - SabbirIPTV",India News UP UK
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png" group-title="News - SabbirIPTV",News State UP Uttarakhand
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png" group-title="Regional Hindi - SabbirIPTV",Sahara Samay UP-UKD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11320-j9jlusp4-v1/imageContent-11320-j9jlusp4-m1.png" group-title="Entertainment - SabbirIPTV",DD Bharati
+https://delta15tatasky.akamaized.net/out/i/1454813.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11389-j9jq2ybk-v1/imageContent-11389-j9jq2ybk-m1.png" group-title="Regional Hindi - SabbirIPTV",DD Uttar Pradesh
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23266-jez523so-v1/imageContent-23266-jez523so-m2.png" group-title="Regional Hindi - SabbirIPTV",News18 Madhya Pradesh Chhattisgarh
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11321-j9jlxaz4-v1/imageContent-11321-j9jlxaz4-m1.png" group-title="Regional Hindi - SabbirIPTV",DD Bihar
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11981-j9lunvjs-v1/imageContent-11981-j9lunvjs-m1.png" group-title="Regional Hindi - SabbirIPTV",Zee Madhya Pradesh Chattisgarh
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png" group-title="Regional Hindi - SabbirIPTV",IBC 24
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35622-jrr5mvig-v1/imageContent-35622-jrr5mvig-m1.png" group-title="Regional Hindi - SabbirIPTV",INH 24X7
+https://delta16tatasky.akamaized.net/out/i/2914733.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png" group-title="News - SabbirIPTV",India News MP CG
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png" group-title="News - SabbirIPTV",Swaraj Express SMBC
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png" group-title="News - SabbirIPTV",News 24 Madhyapradesh Chattisgarh
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71503-l4su2elk-v2/imageContent-71503-l4su2elk-m7.png" group-title="null - SabbirIPTV",News Hour
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1820/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72340-l6nkcw74-v1/imageContent-72340-l6nkcw74-m1.png" group-title="null - SabbirIPTV",TV27 News
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11351-j9jpmdvc-v1/imageContent-11351-j9jpmdvc-m1.png" group-title="Regional Hindi - SabbirIPTV",DD Madhya Pradesh
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12158-j9pd883k-v1/imageContent-12158-j9pd883k-m1.png" group-title="Regional Hindi - SabbirIPTV",Zee Rajasthan News
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png" group-title="Regional Hindi - SabbirIPTV",News18 Rajasthan
+https://delta14tatasky.akamaized.net/out/i/2625147.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png" group-title="Regional Hindi - SabbirIPTV",First India Rajasthan
+https://delta12tatasky.akamaized.net/out/i/3569767.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58492-kixkb2ug-v1/imageContent-58492-kixkb2ug-m1.png" group-title="Regional Hindi - SabbirIPTV",Jan TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png" group-title="News - SabbirIPTV",India News Rajasthan
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11375-j9jpws3k-v1/imageContent-11375-j9jpws3k-m1.png" group-title="Regional Hindi - SabbirIPTV",DD Rajasthan
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_521/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11426-j9jqror4-v3/imageContent-11426-j9jqror4-m3.png" group-title="Regional Hindi - SabbirIPTV",News18 Jammu Kashmir Ladakh Himachal
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_540/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11984-j9lup2rc-v2/imageContent-11984-j9lup2rc-m3.png" group-title="Regional Hindi - SabbirIPTV",Zee Salaam
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG" group-title="Regional Marathi - SabbirIPTV",Colors Marathi HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11384-j9jq29mo-v2/imageContent-11384-j9jq29mo-m3.png" group-title="Regional Hindi - SabbirIPTV",DD Urdu
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png" group-title="Regional Marathi - SabbirIPTV",Zee Marathi HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png" group-title="Regional Marathi - SabbirIPTV",Colors Marathi
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Regional Marathi - SabbirIPTV",Star Pravah HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png" group-title="Regional Marathi - SabbirIPTV",Zee YUVA
+https://delta16tatasky.akamaized.net/out/i/2903671.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="Regional Marathi - SabbirIPTV",Sony Marathi
+https://delta15tatasky.akamaized.net/out/i/1451339.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://delta14tatasky.akamaized.net/out/i/7253194.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="Regional Marathi - SabbirIPTV",Zee Talkies HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8842-j7pp0me8-v2/imageContent-8842-j7pp0me8-m2.png" group-title="Regional Marathi - SabbirIPTV",Zee Talkies
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png" group-title="Regional Marathi - SabbirIPTV",Shemaroo MarathiBana
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png" group-title="Regional Marathi - SabbirIPTV",Fakt Marathi
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12140-j9p7vga8-v1/imageContent-12140-j9p7vga8-m1.png" group-title="Regional Marathi - SabbirIPTV",News18 Lokmat
+https://delta14tatasky.akamaized.net/out/i/2625019.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png" group-title="Regional Marathi - SabbirIPTV",Zee 24 Taas
+https://delta16tatasky.akamaized.net/out/i/2903711.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png" group-title="Regional Marathi - SabbirIPTV",Saam TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1014-j5ngcjug-v2/imageContent-1014-j5ngcjug-m2.png" group-title="Regional Marathi - SabbirIPTV",Jai Maharashtra
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11378-j9jq0f9s-v1/imageContent-11378-j9jq0f9s-m1.png" group-title="Regional Marathi - SabbirIPTV",DD Sahyadri
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_522/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Regional Bengali - SabbirIPTV",Colors Bangla HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Regional Bengali - SabbirIPTV",Zee Bangla HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="Regional Bengali - SabbirIPTV",Star Jalsha HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png" group-title="Regional Bengali - SabbirIPTV",Aakaash Aath
+https://delta13tatasky.akamaized.net/out/i/2284258.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="Regional Bengali - SabbirIPTV",Enterr10 Bangla
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="Regional Bengali - SabbirIPTV",Ruposhi Bangla
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Regional Bengali - SabbirIPTV",Zee Bangla Cinema
+https://delta16tatasky.akamaized.net/out/i/2834224.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Regional Bengali - SabbirIPTV",Jalsha Movies HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="Regional Bengali - SabbirIPTV",Khushboo Bangla
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_597/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png" group-title="Regional Bengali - SabbirIPTV",Zee 24 Ghanta
+https://delta16tatasky.akamaized.net/out/i/2903691.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11533-j9jtxqgo-v1/imageContent-11533-j9jtxqgo-m1.png" group-title="Regional Bengali - SabbirIPTV",Kolkata TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_599/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" group-title="News - SabbirIPTV",Republic Bangla
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1301/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11299-j9j61p1k-v1/imageContent-11299-j9j61p1k-m1.png" group-title="Regional Bengali - SabbirIPTV",CTVN AKD Plus
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_495/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png" group-title="Regional Bengali - SabbirIPTV",Calcutta News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_477/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11314-j9j8kcxk-v1/imageContent-11314-j9j8kcxk-m1.png" group-title="Regional Bengali - SabbirIPTV",DD Bangla
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="Regional Telugu - SabbirIPTV",Zee Telugu HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png" group-title="Regional Telugu - SabbirIPTV",Zee Telugu
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="Regional Telugu - SabbirIPTV",Gemini TV HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="Regional Telugu - SabbirIPTV",STAR Maa HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="Regional Telugu - SabbirIPTV",ETV HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="Regional Telugu - SabbirIPTV",Gemini Life
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="Regional Telugu - SabbirIPTV",ETV Plus
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png" group-title="Regional Telugu - SabbirIPTV",Telugu Naaptol
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_485/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png" group-title="Regional Telugu - SabbirIPTV",Vissa TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="Knowledge - SabbirIPTV",Tata Play English in Telugu
+https://delta15tatasky.akamaized.net/out/i/1451330.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Regional Telugu - SabbirIPTV",Gemini Movies HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="Regional Telugu - SabbirIPTV",Star Maa Movies HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="Regional Telugu - SabbirIPTV",Star Maa Gold
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="Regional Telugu - SabbirIPTV",Zee Cinemalu HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Regional Telugu - SabbirIPTV",Zee Cinemalu
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTECL_Thumbnail-v1/TPTECL_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Telugu Classics
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11182-j9i3o5pc-v2/imageContent-11182-j9i3o5pc-m2.png" group-title="Regional Telugu - SabbirIPTV",ETV Life
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11417-j9jqpcnc-v1/imageContent-11417-j9jqpcnc-m1.png" group-title="Regional Kannada - SabbirIPTV",ETV Abhiruchi
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png" group-title="Regional Telugu - SabbirIPTV",Sakshi TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png" group-title="Regional Telugu - SabbirIPTV",ETV Andhra Pradesh
+https://delta14tatasky.akamaized.net/out/i/4779620.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png" group-title="Regional Telugu - SabbirIPTV",TV5 News
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png" group-title="Regional Telugu - SabbirIPTV",TV9 Telugu
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png" group-title="Regional Telugu - SabbirIPTV",V6 Telugu
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-255-j5fz95pc-v1/imageContent-255-j5fz95pc-m1.png" group-title="Regional Telugu - SabbirIPTV",ETV Telangana
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11470-j9jr4uio-v1/imageContent-11470-j9jr4uio-m1.png" group-title="Regional Telugu - SabbirIPTV",HM TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png" group-title="Regional Telugu - SabbirIPTV",Raj News Telugu
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_690/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png" group-title="Regional Telugu - SabbirIPTV",4tv News
+https://delta15tatasky.akamaized.net/out/i/1454967.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11381-j9jq1pkg-v1/imageContent-11381-j9jq1pkg-m1.png" group-title="Regional Telugu - SabbirIPTV",DD Saptagiri
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11392-j9jq3lgw-v3/imageContent-11392-j9jq3lgw-m2.png" group-title="Regional Telugu - SabbirIPTV",DD Yadagiri
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11691-j9kj50i0-v1/imageContent-11691-j9kj50i0-m1.png" group-title="Regional Telugu - SabbirIPTV",Raj Musix Telugu
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png" group-title="Regional Telugu - SabbirIPTV",Bhakti TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11745-j9kwb568-v2/imageContent-11745-j9kwb568-m3.png" group-title="Regional Telugu - SabbirIPTV",Shubhavaarta TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png" group-title="Regional Telugu - SabbirIPTV",Swara Sagar
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18536-jct505dc-v2/imageContent-18536-jct505dc-m2.png" group-title="Regional Telugu - SabbirIPTV",Hindu Dharmam
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Regional Tamil - SabbirIPTV",Sun TV HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Regional Tamil - SabbirIPTV",Sun Life
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Regional Tamil - SabbirIPTV",Star Vijay HD
+https://delta12tatasky.akamaized.net/out/i/3562165.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Regional Tamil - SabbirIPTV",Zee Tamil HD
+https://delta13tatasky.akamaized.net/out/i/3006053.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png" group-title="Regional Tamil - SabbirIPTV",Zee Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Regional Tamil - SabbirIPTV",Colors Tamil HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Regional Tamil - SabbirIPTV",Colors Tamil
+https://delta12tatasky.akamaized.net/out/i/3562168.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Regional Telugu - SabbirIPTV",Jaya TV HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Regional Tamil - SabbirIPTV",Kalaignar TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://delta13tatasky.akamaized.net/out/i/5615195.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png" group-title="Regional Tamil - SabbirIPTV",Raj TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png" group-title="Regional Tamil - SabbirIPTV",Raj Digital Plus
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-41267-jwjjvrt4-v5/imageContent-41267-jwjjvrt4-m7.png" group-title="Regional Tamil - SabbirIPTV",Tamil Naaptol
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="Regional Tamil - SabbirIPTV",Polimer TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Regional Tamil - SabbirIPTV",Vendhar TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="Regional Tamil - SabbirIPTV",J Movies
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png" group-title="Regional Tamil - SabbirIPTV",Travelxp Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png" group-title="Regional Tamil - SabbirIPTV",Thanthi TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="Regional Tamil - SabbirIPTV",Seithigal TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Regional Tamil - SabbirIPTV",Raj News Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png" group-title="Regional Tamil - SabbirIPTV",Sathiyam TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png" group-title="Regional Tamil - SabbirIPTV",MalaiMurasu Seithigal
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="Regional Tamil - SabbirIPTV",News J
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="Regional Tamil - SabbirIPTV",News Tamil 24x7
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png" group-title="Regional Tamil - SabbirIPTV",DD Podhigai
+https://delta15tatasky.akamaized.net/out/i/1454859.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Regional Tamil - SabbirIPTV",Raj Musix
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="Regional Tamil - SabbirIPTV",Isaiaruvi
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="Regional Tamil - SabbirIPTV",Murasu TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Regional Tamil - SabbirIPTV",Mega Musiq
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png" group-title="Regional Tamil - SabbirIPTV",Jothi TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_699/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11562-j9juzmns-v1/imageContent-11562-j9juzmns-m1.png" group-title="Regional Tamil - SabbirIPTV",Madha TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png" group-title="Regional Telugu - SabbirIPTV",SVBC 2
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11883-j9l3rjzc-v1/imageContent-11883-j9l3rjzc-m1.png" group-title="Regional Kannada - SabbirIPTV",Udaya TV HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-345-j5jmkws0-v2/imageContent-345-j5jmkws0-m4.png" group-title="Regional Kannada - SabbirIPTV",Colors Kannada
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png" group-title="Regional Kannada - SabbirIPTV",Star Suvarna HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="Regional Kannada - SabbirIPTV",Zee Kannada HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png" group-title="Regional Kannada - SabbirIPTV",Zee Kannada
+https://delta16tatasky.akamaized.net/out/i/2903682.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65190-ktai1xtk-v1/imageContent-65190-ktai1xtk-m1.png" group-title="Regional Kannada - SabbirIPTV",SIRIKANNADA Alltime
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1771/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png" group-title="Regional Kannada - SabbirIPTV",Star Suvarna Plus
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31188-jldk0joo-v2/imageContent-31188-jldk0joo-m2.png" group-title="Regional Kannada - SabbirIPTV",Public Movies
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_894/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-822-j5m8ivjs-v1/imageContent-822-j5m8ivjs-m1.png" group-title="Regional Kannada - SabbirIPTV",Kasthuri
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-98-j5fjwu7s-v2/imageContent-98-j5fjwu7s-m3.png" group-title="Regional Kannada - SabbirIPTV",Public TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9824-j85wb88o-v1/imageContent-9824-j85wb88o-m1.png" group-title="Regional Kannada - SabbirIPTV",News18 Kannada
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19066-jczvvocg-v1/imageContent-19066-jczvvocg-m1.png" group-title="Regional Kannada - SabbirIPTV",TV5 Kannada
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11948-j9ltrfc8-v1/imageContent-11948-j9ltrfc8-m1.png" group-title="Regional Kannada - SabbirIPTV",Raj News Kannada
+https://delta13tatasky.akamaized.net/out/i/3260084.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11397-j9jq7rxk-v1/imageContent-11397-j9jq7rxk-m1.png" group-title="Regional Kannada - SabbirIPTV",Dighvijay 24x7 News
+https://delta16tatasky.akamaized.net/out/i/2903729.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png" group-title="Regional Kannada - SabbirIPTV",Power TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62858-kpdlcyeg-v2/imageContent-62858-kpdlcyeg-m2.png" group-title="Regional Kannada - SabbirIPTV",News 1st
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11338-j9jozdxs-v1/imageContent-11338-j9jozdxs-m1.png" group-title="Regional Kannada - SabbirIPTV",DD Chandana
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11685-j9kipky0-v1/imageContent-11685-j9kipky0-m2.png" group-title="Regional Kannada - SabbirIPTV",Raj Musix Kannada
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11676-j9khi3cw-v1/imageContent-11676-j9khi3cw-m1.png" group-title="Regional Kannada - SabbirIPTV",Public Music
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11788-j9kypa94-v1/imageContent-11788-j9kypa94-m2.png" group-title="Regional Kannada - SabbirIPTV",Sri Sankara TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69020-kzo676so-v1/imageContent-69020-kzo676so-m1.png" group-title="Regional Kannada - SabbirIPTV",SVBC 3
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png" group-title="Regional Gujarati - SabbirIPTV",Tata Play Gujarati Cinema
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png" group-title="Regional Gujarati - SabbirIPTV",Colors Gujarati Cinema
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png" group-title="Regional Gujarati - SabbirIPTV",TV9 Gujarati
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12068-j9o9t9jc-v1/imageContent-12068-j9o9t9jc-m1.png" group-title="Regional Gujarati - SabbirIPTV",Gujarat Samachar TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12167-j9phnio0-v2/imageContent-12167-j9phnio0-m2.png" group-title="Regional Gujarati - SabbirIPTV",Sandesh News
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png" group-title="Regional Gujarati - SabbirIPTV",CNBC Bajaar
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png" group-title="Regional Gujarati - SabbirIPTV",News18 Gujarati
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-228-j5fxgzio-v2/imageContent-228-j5fxgzio-m2.png" group-title="Regional Gujarati - SabbirIPTV",ABP Asmita
+https://delta13tatasky.akamaized.net/out/i/2284231.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11912-j9l58n8w-v2/imageContent-11912-j9l58n8w-m4.png" group-title="Regional Gujarati - SabbirIPTV",VTV News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11924-j9l5fs6w-v3/imageContent-11924-j9l5fs6w-m3.png" group-title="Regional Gujarati - SabbirIPTV",Zee 24 Kalak
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-26589-jj9w5h54-v1/imageContent-26589-jj9w5h54-m2.png" group-title="Regional Gujarati - SabbirIPTV",India News Gujarat
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69320-l03w8mrc-v1/imageContent-69320-l03w8mrc-m2.png" group-title="Regional Gujarati - SabbirIPTV",Gujarat First
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11341-j9jpdu00-v1/imageContent-11341-j9jpdu00-m1.png" group-title="Regional Gujarati - SabbirIPTV",DD Girnar
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png" group-title="Regional Odia - SabbirIPTV",Sidharth TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12271-j9to48zc-v1/imageContent-12271-j9to48zc-m2.png" group-title="Regional Odia - SabbirIPTV",Kanak News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11513-j9jtooug-v1/imageContent-11513-j9jtooug-m1.png" group-title="Regional Odia - SabbirIPTV",Kalinga TV
+https://delta16tatasky.akamaized.net/out/i/2903724.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11733-j9kw4100-v4/imageContent-11733-j9kw4100-m4.png" group-title="Regional Odia - SabbirIPTV",News7
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png" group-title="Regional Odia - SabbirIPTV",DD Odia
+https://delta15tatasky.akamaized.net/out/i/1454829.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" group-title="Regional Malayalam - SabbirIPTV",Surya TV
+https://delta15tatasky.akamaized.net/out/i/5147850.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Regional Malayalam - SabbirIPTV",Asianet HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="Regional Malayalam - SabbirIPTV",Asianet Plus
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png" group-title="Regional Malayalam - SabbirIPTV",Zee Keralam HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png" group-title="Regional Malayalam - SabbirIPTV",Zee Keralam
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png" group-title="Regional Malayalam - SabbirIPTV",Flowers
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png" group-title="Regional Malayalam - SabbirIPTV",Mazhavil Manorama HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png" group-title="Regional Malayalam - SabbirIPTV",Kairali TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png" group-title="Regional Malayalam - SabbirIPTV",We TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" group-title="Regional Malayalam - SabbirIPTV",Surya Movies
+https://delta15tatasky.akamaized.net/out/i/5145962.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="Regional Malayalam - SabbirIPTV",Asianet Movies
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png" group-title="Regional Malayalam - SabbirIPTV",Asianet News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png" group-title="Regional Malayalam - SabbirIPTV",Manorama News
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png" group-title="Regional Malayalam - SabbirIPTV",Jaihind TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12137-j9p7pmeo-v2/imageContent-12137-j9p7pmeo-m2.png" group-title="Regional Malayalam - SabbirIPTV",Media One
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11524-j9jtu07c-v2/imageContent-11524-j9jtu07c-m2.png" group-title="Regional Malayalam - SabbirIPTV",Kaumudy TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11694-j9kjc0tc-v1/imageContent-11694-j9kjc0tc-m1.png" group-title="Regional Malayalam - SabbirIPTV",Raj News Malayalam
+https://delta16tatasky.akamaized.net/out/i/2914715.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png" group-title="Regional Malayalam - SabbirIPTV",Twenty Four
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png" group-title="Regional Malayalam - SabbirIPTV",Raj Musix Malayalam
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="Regional Malayalam - SabbirIPTV",Kappa TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_593/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11176-j9i3lv54-v2/imageContent-11176-j9i3lv54-m2.png" group-title="Regional Malayalam - SabbirIPTV",Goodness
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11449-j9jqxsns-v1/imageContent-11449-j9jqxsns-m1.png" group-title="Regional Malayalam - SabbirIPTV",God TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_554/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11772-j9kwsqns-v1/imageContent-11772-j9kwsqns-m1.png" group-title="Regional Malayalam - SabbirIPTV",Shalom TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35638-jruyxl0g-v4/imageContent-35638-jruyxl0g-m7.PNG" group-title="Regional Malayalam - SabbirIPTV",Harvest TV 24x7
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68739-kywk7vq0-v1/imageContent-68739-kywk7vq0-m1.png" group-title="Regional Punjabi - SabbirIPTV",Tata Play Punjab De Rang
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png" group-title="Regional Punjabi - SabbirIPTV",Zee Punjabi
+https://delta15tatasky.akamaized.net/out/i/2554667.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11586-j9jyt26w-v1/imageContent-11586-j9jyt26w-m1.png" group-title="Music - SabbirIPTV",MH One
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_625/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png" group-title="null - SabbirIPTV",Tata Play Toons+
+https://delta13tatasky.akamaized.net/out/i/5616001.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png" group-title="Regional Punjabi - SabbirIPTV",Pitaara TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48860-k4nlxy14-v2/imageContent-48860-k4nlxy14-m2.png" group-title="Regional Punjabi - SabbirIPTV",PTC Punjabi Gold
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png" group-title="Regional Punjabi - SabbirIPTV",Zee Punjab Haryana Himachal Pradesh
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png" group-title="Regional Punjabi - SabbirIPTV",PTC News
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11482-j9jsdwfk-v1/imageContent-11482-j9jsdwfk-m1.jpg" group-title="Regional Punjabi - SabbirIPTV",India News Punjab
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_573/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png" group-title="News - SabbirIPTV",India News Haryana
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11587-j9jyvxl4-v1/imageContent-11587-j9jyvxl4-m1.png" group-title="News - SabbirIPTV",MH One News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48498-k3zd4bsg-v1/imageContent-48498-k3zd4bsg-m3.png" group-title="Regional Punjabi - SabbirIPTV",ANB NEWS
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_979/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69238-kzt9ig3k-v1/imageContent-69238-kzt9ig3k-m2.png" group-title="Regional Hindi - SabbirIPTV",Khabar Fast
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1801/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35649-jrz9mhq0-v2/imageContent-35649-jrz9mhq0-m2.PNG" group-title="Regional Odia - SabbirIPTV",Zee Delhi NCR Haryana
+https://delta16tatasky.akamaized.net/out/i/2903716.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png" group-title="null - SabbirIPTV",STV Haryana News
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png" group-title="Regional Punjabi - SabbirIPTV",DD Punjabi
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_520/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-297-j5ji8qv4-v1/imageContent-297-j5ji8qv4-m1.png" group-title="Regional Punjabi - SabbirIPTV",PTC Chak De
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63498-kqq89g5k-v2/imageContent-63498-kqq89g5k-m3.png" group-title="Regional Punjabi - SabbirIPTV",PTC Music
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png" group-title="Regional Others - SabbirIPTV",Nepal 1
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-860-j5mao56o-v1/imageContent-860-j5mao56o-m1.png" group-title="Regional Others - SabbirIPTV",Rengoni TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png" group-title="Regional Others - SabbirIPTV",Prag News
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png" group-title="Regional Others - SabbirIPTV",North East Live
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png" group-title="Regional Others - SabbirIPTV",NKTV PLUS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png" group-title="Regional Others - SabbirIPTV",ND24-Newsdaily.in
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png" group-title="Regional Others - SabbirIPTV",DD North East
+https://delta15tatasky.akamaized.net/out/i/1454826.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11345-j9jpidkw-v1/imageContent-11345-j9jpidkw-m1.png" group-title="Regional Others - SabbirIPTV",DD Kashir
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png" group-title="Regional Others - SabbirIPTV",Ramdhenu
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71497-l4stx05k-v3/imageContent-71497-l4stx05k-m5.png" group-title="null - SabbirIPTV",DD Meghalaya
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png" group-title="Regional Punjabi - SabbirIPTV",Fateh TV
+https://delta45tatasky.akamaized.net/out/i/1147.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="Music - SabbirIPTV",Haryana Beats
+https://delta45tatasky.akamaized.net/out/i/1201.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49633-k6lny7mw-v1/imageContent-49633-k6lny7mw-m1.png" group-title="Regional Marathi - SabbirIPTV",In Goa 24x7
+https://delta45tatasky.akamaized.net/out/i/1175.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47615-k2jwaqug-v1/imageContent-47615-k2jwaqug-m3.png" group-title="Regional Kannada - SabbirIPTV",Namma TV
+https://delta45tatasky.akamaized.net/out/i/1205.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57969-khu0zsnc-v1/imageContent-57969-khu0zsnc-m1.png" group-title="Regional Bengali - SabbirIPTV",Tara News
+https://delta45tatasky.akamaized.net/out/i/1231.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57966-khtydrm8-v1/imageContent-57966-khtydrm8-m1.png" group-title="Regional Bengali - SabbirIPTV",Bangla Bhakti
+https://delta45tatasky.akamaized.net/out/i/1211.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60927-kljn2znc-v1/imageContent-60927-kljn2znc-m1.png" group-title="Spiritual - SabbirIPTV",Garv Gurbani
+https://delta45tatasky.akamaized.net/out/i/1155.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="Spiritual - SabbirIPTV",Ujjain
+https://delta45tatasky.akamaized.net/out/i/1299.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png" group-title="News - SabbirIPTV",Samara News
+https://delta45tatasky.akamaized.net/out/i/767.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65966-ku6es6wo-v4/imageContent-65966-ku6es6wo-m4.png" group-title="Spiritual - SabbirIPTV",Live Iskcon Vrindavan
+https://delta45tatasky.akamaized.net/out/i/805.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png" group-title="Spiritual - SabbirIPTV",Live Patna Sahib Patna
+https://delta45tatasky.akamaized.net/out/i/496.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72306-l6hr8log-v1/imageContent-72306-l6hr8log-m1.png" group-title="null - SabbirIPTV",Mumbai
+https://delta45tatasky.akamaized.net/out/i/910.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72303-l6hqin9k-v1/imageContent-72303-l6hqin9k-m2.png" group-title="null - SabbirIPTV",Varanasi
+https://delta45tatasky.akamaized.net/out/i/905.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72312-l6hsvue8-v1/imageContent-72312-l6hsvue8-m2.png" group-title="null - SabbirIPTV",Â Mumbai
+https://delta45tatasky.akamaized.net/out/i/920.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72309-l6hro3js-v1/imageContent-72309-l6hro3js-m2.png" group-title="null - SabbirIPTV",Ranjangaon
+https://delta45tatasky.akamaized.net/out/i/915.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73014-l8gzok74-v2/imageContent-73014-l8gzok74-m4.png" group-title="Knowledge - SabbirIPTV",Daiji World TV
+https://delta45tatasky.akamaized.net/out/i/1183.mpd
